@@ -1,0 +1,31 @@
+{
+  "evidencia": [
+    {
+      "personajes": {
+        "Fernando_Gutiérrez_Barrios": false,
+        "Manuel_Tello_Macías": false,
+        "Antonio_Riviello_Bazán": false,
+        "Genaro_Garcia_Luna": false,
+        "salinas_de_gortari": false
+      }
+    },
+    {
+      "locaciones": {
+        "LOS_PINOS": false,
+        "TIJUANA": false,
+        "PALACIO_DE_BELLAS_ARTES": false,
+        "MUNICIPIO_DE_CHALCO": false,
+        "ZOCALO": false
+      }
+    },
+    {
+      "armas": {
+        "CUCHILLO": false,
+        "PISTOLA": false,
+        "TIJERAS": false,
+        "CABLES": false,
+        "VENENO": false
+      }
+    }
+  ]
+}
